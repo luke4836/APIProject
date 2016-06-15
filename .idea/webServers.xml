@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dbef1b00-7af1-4031-a709-9ff0c635d5ff" name="RasPi" url="http://10.1.7.91">
+        <fileTransfer host="10.1.7.91" port="21" rootFolder="/home/pi/DevelopeForPyCharm" password="dfd8dfcbdfd9dfdadfc8dfcfdfd8dfd8dfd3" username="pi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
